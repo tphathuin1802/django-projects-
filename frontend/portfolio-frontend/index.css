@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    height: 100vh;
+    background: linear-gradient(45deg, #00853e,#50c878);
+}
+
+.card_reg{
+    background: #2468;
+    width: 300px;
+    
+}
